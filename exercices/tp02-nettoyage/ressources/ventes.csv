@@ -1,0 +1,63 @@
+id_commande,date,region,categorie,produit,Prix unitaire,quantite,Client fidèle
+1021,2025-01-01,Nouvelle-Aquitaine,Bureau,Lampe LED,268.78,9,False
+1035,2025-01-02,Bretagne ,Bureau,Rangement papier,316.64,3,False
+1044,2025-01-05,Hauts-de-France,Électroménager,Grille-pain,248.61,10,False
+1026,2025-01-11,Occitanie,Électroménager,Cafetière,92.78,2,False
+1053,2025-01-13,Bretagne,Bureau,Bureau assis-debout,341.86,3,True
+1056,2025-01-13,Auvergne-Rhône-Alpes,Électroménager,Bouilloire,112.38,4,False
+1058,2025-01-15,Occitanie,Électroménager,Grille-pain,343.55,9,True
+1033,2025-01-26,Île-de-France,Informatique,Webcam HD,284.34,9,False
+1030,2025-01-28,Hauts-de-France,Électroménager,Bouilloire,152.86,-3,False
+1027,2025-01-31,Hauts-de-France,Bureau,Bureau assis-debout,10.46,12,True
+1037,2025-02-01,Hauts-de-France,Papeterie,Stylo plume,339.3,10,False
+1042,2025-02-07,Île-de-France,Informatique,Souris sans fil,164.73,10,False
+1005,2025-02-17,Île-de-France,Bureau,Bureau assis-debout,335.37,6,False
+1059,2025-02-25,Île-de-France,Papeterie,Stylo plume,206.56,5,False
+1049,2025-02-27,Île-de-France,Électroménager,Grille-pain,249.34,9,True
+1045,2025-03-01,Occitanie,Papeterie,Bloc-notes,329.11,3,False
+1045,2025-03-01,Occitanie,Papeterie,Bloc-notes,329.11,3,False
+1023,2025-03-06,Nouvelle-Aquitaine,Informatique,Souris sans fil,258.31,2,True
+1001,2025-03-13,Auvergne-Rhône-Alpes,Informatique,Souris sans fil,261.61,4,False
+1050,2025-03-17,Nouvelle-Aquitaine,Bureau,Chaise ergonomique,293.43,10,False
+1052,2025-03-21,Nouvelle-Aquitaine,Informatique,Écran 24 pouces,274.8,7,False
+1038,2025-03-22,Nouvelle-Aquitaine,Informatique,Souris sans fil,207.79,9,True
+1029,2025-04-08,Bretagne,Bureau,Rangement papier,91.11,8,True
+1055,2025-04-13,Auvergne-Rhône-Alpes,Informatique,Webcam HD,306.28,8,False
+1051,2025-04-18,occitanie,Informatique,Écran 24 pouces,132.71,480,False
+1002,2025-04-22,Île-de-France,Informatique,Casque audio,152.3,1,True
+1011,2025-04-23,Hauts-de-France,Électroménager,Bouilloire,346.42,11,False
+1008,2025-04-30,Île-de-France,Informatique,Souris sans fil,234.15,5,False
+1039,2025-05-01,Hauts-de-France,Informatique,Clavier mécanique,31.43,2,False
+1022,2025-05-03,Occitanie,Électroménager,Cafetière,46.26,6,True
+1010,2025-05-06,Nouvelle-Aquitaine,Papeterie,Bloc-notes,216.32,3,True
+1031,2025-05-08,Ile-de-France,Informatique,Souris sans fil,145.7,6,True
+1032,2025-05-08,Bretagne,Électroménager,Cafetière,0.0,5,False
+1017,2025-05-09,Nouvelle-Aquitaine,Électroménager,Bouilloire,211.79,8,False
+1019,2025-05-15,Hauts-de-France,Électroménager,Cafetière,163.17,12,False
+1048,2025-05-15,Hauts-de-France,Informatique,Souris sans fil,122.08,3,True
+1054,2025-05-17,Auvergne-Rhône-Alpes,Papeterie,Agrafeuse,282.36,12,True
+1012,2025-05-18,Bretagne,Informatique,Clavier mécanique,289.06,6,True
+1041,2025-06-03,Auvergne-Rhône-Alpes,Bureau,Lampe LED,89.63,7,False
+1040,2025-06-11,Hauts-de-France,Bureau,Chaise ergonomique,219.83,7,False
+1040,2025-06-11,Hauts-de-France,Bureau,Chaise ergonomique,219.83,7,False
+1018,2025-06-24,,Informatique,Souris sans fil,241.14,9,True
+1046,2025-06-25,Hauts-de-France,Bureau,Lampe LED,104.36,4,True
+1057,2025-06-29,Occitanie,Électroménager,Bouilloire,103.28,2,False
+1007,2025-07-05,Nouvelle-Aquitaine,Électroménager,Cafetière,196.8,11,False
+1009,2025-07-09,Auvergne-Rhône-Alpes,Électroménager,Bouilloire,163.07,6,False
+1043,2025-07-09,,Papeterie,Stylo plume,327.17,2,True
+1025,2025-07-11,Hauts-de-France,Bureau,Lampe LED,144.46,11,False
+1060,2025-07-17,Île-de-France,Papeterie,Classeur,157.25,9,False
+1034,2025-07-28,Auvergne-Rhône-Alpes,INFORMATIQUE,Souris sans fil,324.82,4,False
+1003,2025-08-03,Hauts-de-France,Informatique,Casque audio,76.0,11,True
+1004,2025-08-05,Hauts-de-France,Papeterie,Bloc-notes,267.51,3,True
+1016,2025-08-05,Hauts-de-France,Informatique,Souris sans fil,12999.0,3,False
+1024,2025-08-05,Nouvelle-Aquitaine,Électroménager,Grille-pain,64.47,9,False
+1047,2025-08-05,Île-de-France,Papeterie,Agrafeuse,93.88,1,False
+1014,2025-08-08,Occitanie,Bureau,Bureau assis-debout,262.79,9,False
+1013,2025-08-23,Hauts-de-France,Papeterie,Stylo plume,232.16,7,True
+1006,2025-08-24,,Papeterie,Classeur,214.47,1,False
+1028,2025-09-06,Occitanie,Informatique,Écran 24 pouces,32.23,4,True
+1036,2025-09-07,Hauts-de-France,Papeterie,Agrafeuse,105.56,12,True
+1015,2025-09-10,Nouvelle-Aquitaine,Électroménager,Bouilloire,83.01,3,True
+1020,2025-09-17,Hauts-de-France,Bureau,Chaise ergonomique,305.72,5,False

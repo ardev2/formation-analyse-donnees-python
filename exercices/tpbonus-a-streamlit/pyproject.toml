@@ -1,0 +1,14 @@
+[project]
+name = "tableau-de-bord-ventes"
+version = "0.1.0"
+description = "Tableau de bord Streamlit des ventes 2025"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2",
+    "plotly>=5",
+    "pyarrow>=15",
+    "streamlit>=1.40",
+]
+
+[tool.ruff]
+line-length = 120

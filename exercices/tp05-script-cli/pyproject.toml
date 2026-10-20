@@ -1,0 +1,30 @@
+[project]
+name = "ventes"
+version = "0.1.0"
+description = "Consolide les ventes mensuelles et calcule des indicateurs par mois et par région"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2",
+    "pyarrow>=15",
+    "pyyaml>=6",
+]
+
+[project.scripts]
+ventes = "ventes.cli:main"
+
+[dependency-groups]
+dev = [
+    "mypy>=1.10",
+    "pandas-stubs>=2.2",
+    "pytest>=8",
+    "ruff>=0.6",
+    "types-pyyaml>=6",
+]
+
+[tool.ruff]
+line-length = 120
+
+[build-system]
+requires = ["uv_build>=0.12,<0.13"]
+build-backend = "uv_build"

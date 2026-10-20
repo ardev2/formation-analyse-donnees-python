@@ -1,0 +1,17 @@
+id_produit,produit,categorie,prix_catalogue
+P01,Souris sans fil,Informatique,29.9
+P02,Clavier mécanique,Informatique,89.0
+P03,Écran 24 pouces,Informatique,189.0
+P04,Webcam HD,Informatique,59.9
+P05,Casque audio,Informatique,79.0
+P06,Chaise ergonomique,Bureau,249.0
+P07,Bureau assis-debout,Bureau,399.0
+P08,Lampe LED,Bureau,34.9
+P09,Rangement papier,Bureau,19.9
+P10,Bloc-notes,Papeterie,3.5
+P11,Stylo plume,Papeterie,24.9
+P12,Classeur,Papeterie,4.9
+P13,Agrafeuse,Papeterie,12.9
+P14,Cafetière,Électroménager,69.9
+P15,Bouilloire,Électroménager,39.9
+P16,Grille-pain,Électroménager,44.9
