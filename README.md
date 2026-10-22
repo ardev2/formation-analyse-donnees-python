@@ -19,7 +19,7 @@ cours/
     environnement-pandas.pdf    # la même présentation en PDF
   02-jour1-apres-midi/          selection-nettoyage.pptx et .pdf
   03-jour2-matin/               agregation-dates.pptx et .pdf
-  04-jour2-apres-midi/          visualisation.pptx et .pdf
+  04-jour2-apres-midi/          visualisation.pptx et .pdf, et visualisation-mini.pptx, version courte (15 min de cours)
   05-jour3-matin/               projet-cli.pptx et .pdf
   06-jour3-apres-midi/          uv-projet-final.pptx et .pdf
   07-bonus/                     pour-aller-plus-loin.pptx et .pdf, module bonus si le temps le permet
@@ -31,6 +31,7 @@ exercices/
     ressources/       # fichiers de données fournis pour le TP
   tp02-nettoyage/
   tp03-indicateurs/
+  tp04-mini-visualisation/    version mini du TP4 (30 min) : quelques graphiques avec chaque bibliothèque
   tp04-tableau-de-bord/
   tp05-script-cli/            projet Python à compléter (uv), consignes dans son README
   tp06-projet-final/          cahier des charges du projet fil rouge
