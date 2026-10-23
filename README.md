@@ -22,7 +22,7 @@ cours/
   04-jour2-apres-midi/          visualisation.pptx et .pdf, et visualisation-mini.pptx, version courte (15 min de cours)
   05-jour3-matin/               projet-cli.pptx et .pdf
   06-jour3-apres-midi/          uv-projet-final.pptx et .pdf
-  07-bonus/                     pour-aller-plus-loin.pptx et .pdf, module bonus si le temps le permet
+  07-bonus/                     pour-aller-plus-loin.pptx et .pdf, module bonus si le temps le permet, et pyspark.pptx (1 h avec son TP)
 exercices/
   tp00-verification-environnement/
     tp00.ipynb        # vérification du poste : environnement virtuel, Jupyter, bases de Python
@@ -37,6 +37,7 @@ exercices/
   tp06-projet-final/          cahier des charges du projet fil rouge
   tpbonus-a-streamlit/        tableau de bord Streamlit
   tpbonus-b-executable/       exécutable PyInstaller
+  tpbonus-c-pyspark/          notebook PySpark (40 min), comparé à pandas ; Java 17 nécessaire
 ```
 
 Chaque TP est autonome dans son propre dossier sous `exercices/`. Les TP1 à TP4 sont des notebooks Jupyter préremplis (consignes en Markdown, cellules de code à compléter), avec un environnement pip et venv à mettre en place soi-même. Les TP5 et TP6, au jour 3, sont des projets Python gérés avec uv.
