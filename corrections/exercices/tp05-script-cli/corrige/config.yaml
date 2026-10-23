@@ -1,0 +1,8 @@
+donnees:
+  ventes: ../../../../exercices/tp05-script-cli/data/brut/ventes
+  produits: ../../../../exercices/tp05-script-cli/data/brut/produits.csv
+  regions: ../../../../exercices/tp05-script-cli/data/brut/regions.csv
+
+sorties:
+  indicateurs: outputs/indicateurs_mois_region.parquet
+  journal: outputs/ventes.log
