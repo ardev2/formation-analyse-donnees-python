@@ -1,0 +1,12 @@
+donnees:
+  ventes: data/brut/ventes
+  produits: data/brut/produits.csv
+  regions: data/brut/regions.csv
+
+sorties:
+  dossier: outputs
+  journal: outputs/rapport.log
+
+rapport:
+  titre: Rapport des ventes 2025
+  seuil_alerte: 0.8
